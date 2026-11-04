@@ -1,18 +1,3 @@
-/* =================================================
-   CONFIGURACIÓN DE LA ENCUESTA
-   =================================================
-
-   Sustituye esta dirección por la URL de tu servidor
-   que recibirá las respuestas.
-
-   Ejemplo:
-   const ENDPOINT = "https://tudominio.com/api/encuesta";
-
-   No coloques una dirección inventada: necesitas
-   configurar un servicio que reciba los datos.
-
-   ================================================= */
-
 const ENDPOINT = "/api/encuesta";
 
 const form = document.getElementById("surveyForm");
